@@ -2,3 +2,4 @@
 title This is your first batch script
 echo Welcome to batch scripting
 timeout /t 5 /nobreak >nul
+pause
